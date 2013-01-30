@@ -1,0 +1,17 @@
+*
+.
+README.txt
+c
+i
+p
+r
+s
+setup.py
+t
+y
+/
+goran/__init__.py
+goran.egg-info/PKG-INFO
+goran.egg-info/SOURCES.txt
+goran.egg-info/dependency_links.txt
+goran.egg-info/top_level.txt
